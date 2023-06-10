@@ -10,7 +10,9 @@ Ready to roll?
 
 Let's go!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dino-white.png" />
-  <img src="assets/graph-dino-black.png" />
-</picture>
+<div style="text-align:center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dino-white.png" />
+    <img src="assets/graph-dino-black.png" style="width:50%; height:auto;"/>
+  </picture>
+</div>
