@@ -4,8 +4,8 @@ Ahoy there, fellow adventurers! I'm your friendly guide on this wild ride throug
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/assets/graph-dino-white.png" />
-    <img width="50%" src="/assets/graph-dino-black.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/graph-dino-white.png" />
+    <img width="50%" src="assets/graph-dino-black.png" />
   </picture>
 </p>
 
