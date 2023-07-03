@@ -7,7 +7,7 @@ Imagine we're studying a group of dinos. We're curious about their average heigh
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dino-group-white.png" />
-    <img width="25%" src="assets/dino-group-black.png" />
+    <img width="75%" src="assets/dino-group-black.png" />
   </picture>
 </p>
 
