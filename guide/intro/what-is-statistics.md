@@ -30,3 +30,20 @@ Now, here's where the **interpretation** comes in. We can make some cool conclus
 **Statistics helps us make sense of the data we collect, transforming it into valuable insights.** It allows us to uncover patterns, identify trends, and draw conclusions with a scientific flair.
 
 So, buckle up as we embark on an exciting statistical adventure to unravel the mysteries of the data world, one dino at a time!
+
+<a href="/guide/table-of-contents.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
+    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+  </picture>
+</a>
+
+<p align="right">
+  <em>
+    <b>
+      <a href="/guide/intro/descriptive-statistics.md">
+        Descriptive Statistics →
+      </a>
+    </b>
+  </em>
+</p>
