@@ -21,6 +21,10 @@ Ready to roll?
 
 Let's go!
 
+<br />
+
+---
+
 <p align="center">
     <b>
         <a href="/guide/table-of-contents.md">

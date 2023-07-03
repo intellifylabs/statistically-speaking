@@ -31,6 +31,10 @@ Now, here's where the **interpretation** comes in. We can make some cool conclus
 
 So, buckle up as we embark on an exciting statistical adventure to unravel the mysteries of the data world, one dino at a time!
 
+<br />
+
+---
+
 <a href="/guide/table-of-contents.md">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
