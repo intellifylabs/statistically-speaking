@@ -13,9 +13,9 @@
 
 I'm your friendly guide on this wild ride through the land of numbers and code, and I'm thrilled to be sharing this journey with you.
 
-You see, I've spent a fair share of my time immersed in the world of statistics, machine learning, and data analysis, playing with numbers, exploring data, and learning some super cool things along the way.
+You see, I've spent a fair share of my time immersed in the world of statistics, machine learning, and data visualization, and I learned some super cool things along the way.
 
-My goal with this guide is to take these mind-bending concepts and break them down into bite-sized, totally digestible pieces. We're gonna peek under the hood, take a peek at what's going on inside, and do it all with a whole lot of fun.
+My goal with this guide is to take some mind-bending concepts and break them down into bite-sized, totally digestible pieces. We're gonna peek under the hood, see what's going on inside, and do it all with a whole lot of fun.
 
 Ready to roll?
 
